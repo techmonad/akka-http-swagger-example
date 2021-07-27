@@ -12,5 +12,5 @@ libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-actor-typed" % AkkaVersion,
   "com.typesafe.akka" %% "akka-stream" % AkkaVersion,
   "com.typesafe.akka" %% "akka-http" % AkkaHttpVersion,
-  "org.json4s" %% "json4s-native" % "4.0.1"
+  "org.json4s" %% "json4s-native" % "4.0.3"
 )
